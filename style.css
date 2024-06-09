@@ -1,7 +1,17 @@
-body {
+/* body {
   background-image: url(./Image/hinh-nen-dep-cho-dien-thoai-voi-hinh-anh-thien-nhien-phong-cach-truyen-tranh.jpg);
   opacity: 0.5;
+} */
+/* #d2 {
+  color: red;
+} */
+
+.cl1.cl h1 {
+  color: red;
 }
-h1 {
-  color: brown;
+blockquote h1 {
+  color: green;
+}
+.d1.d2 + .cl1 h2 {
+  color: blue;
 }
